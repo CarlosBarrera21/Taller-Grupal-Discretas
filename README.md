@@ -1,5 +1,8 @@
 # Taller-Grupal-Discretas
-Integrantes del grupo
+#Integrantes del grupo 
+
 ORTIZ CRUZATE MATEO GERONIMO	2201778
+
 BARON RIVERA SERGIO HERNANDO	2201885
+
 BARRERA CADENA CARLOS ALBERTO	2202047
